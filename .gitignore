@@ -1,0 +1,25 @@
+.env
+.venv
+Dashboard/dashboard/node_modules
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+Dashboard/dashboard/.pnp
+Dashboard/dashboard/.pnp.js
+
+# testing
+Dashboard/dashboard/coverage
+
+# production
+Dashboard/dashboard/build
+
+# misc
+Dashboard/dashboard/.DS_Store
+Dashboard/dashboard/.env.local
+Dashboard/dashboard/.env.development.local
+Dashboard/dashboard/.env.test.local
+Dashboard/dashboard/.env.production.local
+
+Dashboard/dashboard/npm-debug.log*
+Dashboard/dashboard/yarn-debug.log*
+Dashboard/dashboard/yarn-error.log*
